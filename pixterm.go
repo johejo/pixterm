@@ -22,7 +22,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/eliukblau/pixterm/ansimage"
+	"github.com/johejo/pixterm/ansimage"
 	"github.com/lucasb-eyer/go-colorful"
 	"golang.org/x/crypto/ssh/terminal"
 )
